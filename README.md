@@ -12,6 +12,6 @@ The project is organized in:
 
 Fork this repo and add urls or scripts to download open data of your city. Edit the README.md to link your repo and make a pull request.
 
-Please don't add your datasets directly to this repository.
+Please don't add your datasets directly to this repository to preserve Github disk quota (~1GB/repo)
 
 
