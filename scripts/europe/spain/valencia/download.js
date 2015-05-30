@@ -1,12 +1,13 @@
 var http = require('http');
 var fs = require('fs');
+var rd = require('diacritics').remove;
 
 var HOST = 'apigobiernoabiertocatalog.valencia.es';
 var PATH = '/api/3/action/package_list';
 AVOID = [];
 DONE = [];
 c = 0;
-var FOLDER = './data/';
+var FOLDER = './';
 
 console.log("Downloading data from: " + HOST);
 
@@ -122,5 +123,5 @@ function download(host, path, callback, errCallback) {
 };
 
 function createName(resourceName) {
-    return FOLDER + resourceName.split(' ').join('_').toLowerCase();
+    return FOLDER + rd(resourceName.split(' ').join('_').toLowerCase() + '.geojson');
 };
