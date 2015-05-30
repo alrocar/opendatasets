@@ -4,9 +4,9 @@ A single repository to collect opendata datasets.
 
 The project is organized in:
 
-urls: Just add URLs of opendata datasets
-datasets: The datasets themeselves
-scripts: Code to download the datasets
+- urls: Just add URLs of opendata datasets
+- datasets: The datasets themeselves
+- scripts: Code to download the datasets
 
 # How to contribute?
 
