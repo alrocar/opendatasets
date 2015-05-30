@@ -1,0 +1,23 @@
+<html>
+
+<body style="width=100%; height=auto">
+    <style>
+    iframe {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+    
+    #js-map {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+    }
+    </style>
+    <script>
+        var dataset = location.search.split('dataset=')[1];
+        document.write('<script src="https://embed.github.com/view/geojson/alrocar/opendatasets/master/datasets/"' + dataset + '>
+        </script>');
+        </script>
+</body>
+</html>
