@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "descripcion": "Aparcamiento Mercado Colón" }, "geometry": { "type": "Point", "coordinates": [ -0.368089004029149, 39.469345629060236 ] } },
+{ "type": "Feature", "properties": { "descripcion": "Aparcamiento Hospital-Vinatea" }, "geometry": { "type": "Point", "coordinates": [ -0.379856225068894, 39.47120176630294 ] } },
+{ "type": "Feature", "properties": { "descripcion": "Aparcamiento Jerónimo Muñoz" }, "geometry": { "type": "Point", "coordinates": [ -0.386899860281166, 39.459062073235351 ] } },
+{ "type": "Feature", "properties": { "descripcion": "Aparcamiento Chile" }, "geometry": { "type": "Point", "coordinates": [ -0.357612230078968, 39.470340336045822 ] } },
+{ "type": "Feature", "properties": { "descripcion": "Aparcamiento Conde Altea-Salamanca" }, "geometry": { "type": "Point", "coordinates": [ -0.365470518744063, 39.467936745106577 ] } }
+]
+}

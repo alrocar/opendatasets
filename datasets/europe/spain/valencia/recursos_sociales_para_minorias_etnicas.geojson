@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "descripcion": "ASOCIACIÓN JUVENIL AMALÍ-TUMALÍ \/ ASOCIACIÓN DE MUJERES GITANAS ROMI", "titularidad": "", "idnotes": "8E1178B4202C8E6BC12572D6002D2E69" }, "geometry": { "type": "Point", "coordinates": [ -0.376411145597959, 39.488438980587148 ] } },
+{ "type": "Feature", "properties": { "descripcion": "ASOCIACIÓN GITANA DE VALENCIA", "titularidad": "Asociación Gitana de Valencia", "idnotes": "1148B263A07A0A8AC12572D6002D316C" }, "geometry": { "type": "Point", "coordinates": [ -0.36439284138102, 39.455358459651499 ] } },
+{ "type": "Feature", "properties": { "descripcion": "FUNDACIÓN SECRETARIADO GITANO", "titularidad": "", "idnotes": "EA0CBB9EECA63E34C12572E900372F45" }, "geometry": { "type": "Point", "coordinates": [ -0.352104605959604, 39.472925997269279 ] } },
+{ "type": "Feature", "properties": { "descripcion": "CLUB DEPORTIVO GITANO", "titularidad": "CLUB DEPORTIVO GITANO", "idnotes": "CB8E51CB028E6650C125756E004509D7" }, "geometry": { "type": "Point", "coordinates": [ -0.394825713831297, 39.495447188263071 ] } },
+{ "type": "Feature", "properties": { "descripcion": "ASOCIACIÓN DE GITANOS POR EL EMPLEO", "titularidad": "", "idnotes": "32F3E1CCD3085BB3C12572D6002D316E" }, "geometry": { "type": "Point", "coordinates": [ -0.394825713831297, 39.495447188263071 ] } },
+{ "type": "Feature", "properties": { "descripcion": "FAGA. FEDERACIÓN AUTONÓMICA DE ASOCIACIONES GITANAS DE LA COMUNIDAD VALENCIANA", "titularidad": "", "idnotes": "71F42B869AF3DADBC12572D6002D315C" }, "geometry": { "type": "Point", "coordinates": [ -0.381181537616118, 39.477347560417336 ] } }
+]
+}
